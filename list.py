@@ -7,3 +7,5 @@ print(toys)
 first_toy = toys[0]
 print(first_toy)
 
+last_toy = toys[2]
+print(last_toy)

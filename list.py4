@@ -1,0 +1,9 @@
+fruits.append("pear")
+print("updated list of fruits:",fruits)
+
+numbers.insert(2,6)
+print("updated list of numbers:",numbers)
+
+mixed_list.remove(true)
+
+print("updated mixed list:", mixed_list)
